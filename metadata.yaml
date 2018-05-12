@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31320#The-Wooing-of-Calvin-Parks
 gutenberg_issued: '2010-02-18'
 gutenberg_type: Text
 identifiers:
